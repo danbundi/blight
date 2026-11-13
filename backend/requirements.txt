@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-ultralytics
-pillow
 python-multipart
+ultralytics
+Pillow
