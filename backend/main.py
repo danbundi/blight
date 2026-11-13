@@ -19,7 +19,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:3000",
         "http://localhost:5173",
-        "https://blight-frontend.vercel.app/"
+        "https://blight-frontend.vercel.app"
     ],
     allow_methods=["*"],
     allow_headers=["*"],
